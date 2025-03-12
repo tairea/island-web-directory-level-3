@@ -20,7 +20,7 @@ For this course students will learn to plan and develop a webpage for a place of
 
 | When       | Achievement Standard | Level | Description                                              | Assessment Type                     | Credits |
 |------------|----------------------|-------|----------------------------------------------------------|-------------------------------------|---------|
-| **Term 1** | AS 91907             | 3     | Use complex processes to develop a digital technologies outcome | Internal - Processes Assessment Task | 6       |
+| **Term 1** | AS 91907             | 3     | Use complex processes to develop a digital technologies outcome | Processes Assessment Task | 6       |
 | **Term 2** | AS 91903             | 3     | Use complex techniques to develop a digital media outcome | Website Assessment Task             | 4       |
 | **Term 3** | AS 91906             | 3     | Use complex programming techniques to develop a computer program | Program Assessment Task             | 6       |
 | **Term 4** | AS 91909             | 3     | Present a reflective analysis of developing a digital outcome | Digital Common Assessment Task (External) | 3       |
@@ -29,9 +29,9 @@ For this course students will learn to plan and develop a webpage for a place of
 
 ## Resources
 
-- [AS 91907 - Digital Technologies Outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91907.pdf)
+- [AS 91907 - Complex Processes](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91907.pdf)
 - [AS 91903 - Digital Media Outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91903.pdf)
-- [AS 91906 - Programming Techniques](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91906.pdf)
-- [AS 91909 - Reflective Analysis](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91909.pdf)
+- [AS 91906 - Programming Outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91906.pdf)
+- [AS 91909 - Reflective Analysis Report](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91909.pdf)
 
 ---
