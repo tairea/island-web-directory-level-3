@@ -36,7 +36,7 @@ For this course students will learn to plan and develop a webpage for a place of
 
 ---
 
-## Project key
+## Project key - (add link to project board here)
 
 **Empathise** 🤝 *(hands shaking, representing understanding and empathy)*
 
