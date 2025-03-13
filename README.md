@@ -38,9 +38,9 @@ For this course students will learn to plan and develop a webpage for a place of
 
 ## Project key
 
-Empathise 🤝 (hands shaking, representing understanding and empathy)
-Define 🎯 (target, symbolizing clarity and focus)
-Ideate 💡 (lightbulb, reflecting creativity and idea generation)
-Prototype 🛠️ (hammer and wrench, signifying building and creating)
-Test 🧪 (test tube, emphasizing experimentation and testing)
-Implement 🚀 (rocket, symbolizing launching and implementation)
+**Empathise** 🤝 *(hands shaking, representing understanding and empathy)*
+**Define** 🎯 *(target, symbolizing clarity and focus)*
+**Ideate** 💡 *(lightbulb, reflecting creativity and idea generation)*
+**Prototype** 🛠️ *(hammer and wrench, signifying building and creating)*
+**Test** 🧪 *(test tube, emphasizing experimentation and testing)*
+**Implement** 🚀 *(rocket, symbolizing launching and implementation)*
